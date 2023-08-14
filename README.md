@@ -5,7 +5,7 @@
 - Pivot Tables
 - Functions
 
-Given a [raw dataset](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Excel/CrowdfundingBook_raw.xlsx) of 1000 sample crowdfunding projects from platforms such as Kickstarter and Indiegogo, this project uses Excel to produce a [dataset](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Excel/CrowdfundingBook.xlsx) which manipulates and analyze the raw data to uncover hidden trends and key market insights.
+Given a [raw dataset](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Excel) of 1000 sample crowdfunding projects from platforms such as Kickstarter and Indiegogo, this project uses Excel to produce a [dataset](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Excel) which manipulates and analyze the raw data to uncover hidden trends and key market insights.
 
 The data manipulation and analysis includes:
 - conditional formatting, (to visually distinguish campaign outcomes – successful, failed, canceled, or live)
