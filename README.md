@@ -25,4 +25,4 @@ The project concludes with a comprehensive Microsoft Word report addressing key 
 
 ## References
 
-Dataset created by Trilogy Education Services, LLC.
+Dataset created by [Trilogy Education Services, LLC.](https://trilogy.com/education/)
