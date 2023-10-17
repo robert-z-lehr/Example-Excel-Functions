@@ -3,7 +3,12 @@
 ## Purpose
 Given a [raw dataset](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/raw/main/data/excel) of 1000 sample crowdfunding projects from platforms such as Kickstarter and Indiegogo, Excel tools are used to produce a [dataset](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/raw/main/data/excel) which uncovers hidden trends and key market insights.
 
-![image1](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/conditionally_formatted_excel_table.png)
+---
+
+![conditionally_formatted_excel_table](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/conditionally_formatted_excel_table.png)
+![conditionally_formatted_excel_table](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/conditionally_formatted_excel_table.png)
+![conditionally_formatted_excel_table](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/conditionally_formatted_excel_table.png)
+![conditionally_formatted_excel_table](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/conditionally_formatted_excel_table.png)
 
 ## Tools:
 - Excel
