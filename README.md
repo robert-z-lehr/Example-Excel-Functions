@@ -8,7 +8,7 @@ Given a [raw dataset](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Tr
 ![conditionally_formatted_excel_table](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/conditionally_formatted_excel_table.png)
 ![crowdfunding_success_excel_pivote_table_bars](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/crowdfunding_success_excel_pivot_table_bars.png)
 ![crowdfunding_success_excel_pivote_table_lines](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/crowdfunding_success_excel_pivot_table_lines.png)
-![conditionally_formatted_excel_table](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/conditionally_formatted_excel_table.png)
+![crowdfunding_success_filtered_excel_table](https://github.com/robert-z-lehr/Unveiling-Crowdfunding-Trends/blob/main/Images/crowdfunding_success_filtered_excel_table.png)
 
 ---
 
